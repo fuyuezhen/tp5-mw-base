@@ -1,0 +1,19 @@
+{
+    "name": "fuyuezhen/tp5-mw-base",
+    "description": "基础",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fuyuezhen",
+            "email": "976066889@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "fuyuezhen\\base\\" : "src/"
+        }
+    }
+}
